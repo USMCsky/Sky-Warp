@@ -1,22 +1,12 @@
-# 🏆 Sky-Warp
+# Sky-Warp
 
+🏆 **Minecraft:** 1.21  
+🏆 **Platform:** Spigot  
 🏆 **Author:** [@USMCsky](https://github.com/USMCsky)
 
-Sky-Warp is a Java plugin project built with Gradle for Spigot-based Minecraft servers.
+Sky-Warp is a personal warp plugin for Spigot servers that lets players set, list, and teleport to their own saved warps.
 
-## Usage
-
-### Build
-```bash
-./gradlew build
-```
-
-### Build on Windows
-```bat
-gradlew.bat build
-```
-
-### Clean build
-```bash
-./gradlew clean build
-```
+## Commands
+- `/warp <name>` — Teleport to one of your saved warps.
+- `/warp set <name>` — Save your current location as a personal warp.
+- `/warp list` — List all of your saved warps.
