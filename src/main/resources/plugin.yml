@@ -1,0 +1,12 @@
+name: Sky-Warp
+version: '${version}'
+
+main: particles.usmcsky.skyWarp
+api-version: '1.21'
+
+authors: [ USMCsky ]
+website: https://www.github/usmcsky
+commands:
+  warp:
+    description: Set, list, and teleport to personal warps.
+    usage: "/warp <name> | /warp set <name> | /warp list"
