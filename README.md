@@ -13,3 +13,8 @@ A lightweight personal warp plugin for Spigot-compatible servers that lets playe
 - **`/warp <name>`** — Teleport to one of your saved warps.
 - **`/warp set <name>`** — Save your current location as a personal warp.
 - **`/warp list`** — List all of your saved warps.
+
+  ## Built For
+- **Platform:** Paper / Spigot-compatible servers
+- **Minecraft version:** 1.21.11
+- **Language level:** Java 21
