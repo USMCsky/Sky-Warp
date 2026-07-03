@@ -1,0 +1,3 @@
+# Default Sky-Warp configuration.
+# Player warps are stored under the `players` key.
+players: {}
